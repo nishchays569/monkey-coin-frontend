@@ -1,2 +1,2 @@
-# monkey-coin-frontend
+# Monkey Coin Frontend
 Codebase for Monkey Coin Frontend
